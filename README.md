@@ -110,10 +110,10 @@ html-css-clean-template/
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Screenshot](./imgs/desktop-view.jpg)
+![Desktop Screenshot](./imgs/desktop-view.png)
 
 ### Mobile View
-![Mobile Screenshot](./imgs/mobile-view.jpg)
+![Mobile Screenshot](./imgs/mobile-view.png)
 
 ---
 
