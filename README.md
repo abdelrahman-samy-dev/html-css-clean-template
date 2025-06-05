@@ -6,7 +6,7 @@ A clean and modern multi-section website template built using only **HTML5** and
 
 ## 🔍 Preview
 
-![Template Screenshot](./imgs/preview.jpg)
+![Template Screenshot](./imgs/preview.png)
 
 **[Live Demo](https://abdelrahman-samy-dev.github.io/html-css-clean-template/)**
 
