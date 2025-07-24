@@ -8,7 +8,7 @@ A clean and modern multi-section website template built using only **HTML5** and
 
 ![Template Screenshot](./imgs/preview.png)
 
-**[Live Demo](https://abdelrahman-samy-dev.github.io/html-css-clean-template/)**
+**[Live Demo](https://html-css-clean-template-ov833f866.vercel.app/)**
 
 ---
 
